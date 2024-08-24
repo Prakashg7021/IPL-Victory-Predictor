@@ -38,5 +38,8 @@ Clone the repository to your local machine:
 
 ![IPL Victory Predictor Screenshot](https://raw.githubusercontent.com/Prakashg7021/IPL-Victory-Predictor/main/IPL%20Victory%20Predictor%20Project/screenshots.png)
 
+## Authors
+
+- [@Prakashg7021](https://github.com/Prakashg7021)
 
 
