@@ -20,15 +20,23 @@ IPL Victory Predictor is a Flask-based web application that forecasts IPL match 
 
 4. **🚀 Deployment:**
    The application is hosted on Flask, providing a user-friendly platform for interacting with the IPL Victory Predictor.
+   
+## 🔧 Running This Project
+
+To run the IPL Victory Predictor on your local system, follow these steps:
+
+Clone the repository to your local machine:
 
 ## Installation
 
 **Clone the Repository:**
-   ```bash
+```bash
    git clone https://github.com/Prakashg7021/ipl-victory-predictor.git
+```
 
 ## Screenshots
 
-![Screenshots](https://github.com/Prakashg7021/IPL-Victory-Predictor/raw/main/IPL%20Victory%20Predictor%20Project/screenshots.png)
+![IPL Victory Predictor Screenshot](https://raw.githubusercontent.com/Prakashg7021/IPL-Victory-Predictor/main/IPL%20Victory%20Predictor%20Project/screenshots.png)
+
 
 
