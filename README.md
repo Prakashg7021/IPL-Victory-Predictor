@@ -29,5 +29,6 @@ IPL Victory Predictor is a Flask-based web application that forecasts IPL match 
 
 ## Screenshots
 
-![Screenshots]([https://github.com/user-attachments/assets/e7b73c1a-59d2-4a08-992c-2e6fe3fb7d80](https://github.com/Prakashg7021/IPL-Victory-Predictor/blob/main/IPL%20Victory%20Predictor%20Project/screenshots.png))
+![Screenshots](https://github.com/Prakashg7021/IPL-Victory-Predictor/raw/main/IPL%20Victory%20Predictor%20Project/screenshots.png)
+
 
